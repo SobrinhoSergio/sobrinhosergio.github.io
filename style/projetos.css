@@ -1,0 +1,71 @@
+/*Projetos*/
+    
+article {
+
+    padding: 25px 0px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    text-align: left;
+
+}
+
+article div{
+        
+    height: auto;
+    flex-grow: 1;
+    flex-basis: 300px;
+    background-color: var(--bg);
+    padding: 40px 40px 80px 40px;
+    margin: 10px;
+    border-radius: 5px;
+    position: relative;
+    
+}
+
+article h3{
+    
+    font-size: 1.2rem;
+
+}
+        
+article p{
+
+    margin: 20px 0px;
+    font-size: .9rem;
+
+}
+
+.botoes-projetos{
+    
+    position: absolute;
+    bottom: 40px;
+    left: 40px;
+}
+#projetos a{
+    margin-right: 10px;
+        
+}
+
+.aovivo-button{
+    outline: none;
+    background-color: #4070f4;
+    padding: 10px 20px;
+    color: var(--branco);
+    border:0;
+    font-weight: 300;
+    font-size: 14px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    cursor: pointer;
+
+}
+    
+.aovivo-button:hover {
+
+    cursor: pointer;
+    background-color: #3460da;
+          
+}
+
+/*Fim-Projetos*/
