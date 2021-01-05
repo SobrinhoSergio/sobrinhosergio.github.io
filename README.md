@@ -4,4 +4,4 @@ Site desenvolvido para colocar em prática todos os meus conhecimentos obtidos e
 
 ## Link: 
 
-<a href="https://sobrinhosergio.github.io" target="_blank">sobrinhosergio.github.io</a>
+<a href="https://sobrinhosergio.github.io">sobrinhosergio.github.io</a>
