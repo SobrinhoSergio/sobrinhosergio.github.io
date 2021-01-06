@@ -49,7 +49,6 @@ body{
   
 .profile{
     max-width: 452px;
-    box-sizing: border-box;
     margin: 0 auto;
 }
   
@@ -59,8 +58,6 @@ body{
     border-radius: 15px;
     text-align: center;
     margin-top: 8rem;
-    margin-right: auto;
-    margin-left: auto;
 }
   
 .profile-pic{
@@ -92,9 +89,10 @@ body{
     color: var(--zinza);
 }
   
+/*Portifolio*/
+
 .portfolio {
     max-width: 886px;
-    box-sizing: border-box;
 }
   
 .portfolio ul {
@@ -121,10 +119,12 @@ body{
     margin-bottom: 1rem;
     text-decoration: underline;
 }
+
+/*Link-github*/
   
 .meus-projetos {
-    margin-top: 50vh;
-    padding-bottom: 50vh;
+    margin-top: 20vh;
+    padding-bottom: 20vh;
     text-align: center;
 }
 
@@ -141,8 +141,6 @@ body{
     
   
 body{
-      background-attachment: initial;
-      background-size: contain;
       background-color: var(--bg);
 }
 
