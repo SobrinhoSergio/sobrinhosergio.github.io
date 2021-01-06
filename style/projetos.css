@@ -29,14 +29,14 @@ article div{
 
 article h3{
     
-    font-size: 1.2rem;
+    font-size: 1.3rem;
 
 }
         
 article p{
 
     margin: 20px 0px;
-    font-size: .9rem;
+    font-size: 1.0rem;
 
 }
 
@@ -46,6 +46,7 @@ article p{
     bottom: 40px;
     left: 40px;
 }
+
 #projetos a{
     margin-right: 10px;
         
